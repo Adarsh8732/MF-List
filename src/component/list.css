@@ -1,0 +1,27 @@
+ .single {
+    /* width: 50%; */
+    border: 2px solid black;
+    align-items: center;
+    background-color: rgba(101, 127, 139, 0.192);
+    margin-bottom: 1rem;
+    /* width: 80vw; */
+    height: 4rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: .5rem;
+    border-radius: 2rem;
+    width:70vw;
+}
+.schemeName{
+    align-items: center;
+}
+.pagi{
+    align-self: center;
+    width: 80vw;
+}
+.container {
+    /* display: flex; */
+    margin:auto;
+    align-self: center;
+    width: 100%;
+}

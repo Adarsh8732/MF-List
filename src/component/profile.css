@@ -1,0 +1,22 @@
+.spacer{
+    min-height: 12vh;
+}
+
+.profile-img{
+    flex-basis: 50%;
+}
+
+.profile-img img{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    margin-bottom: 4rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.one{
+    margin-bottom: 1rem;
+}
